@@ -1,0 +1,26 @@
+{
+  "name": "lbg_silverlioness4x",
+  "version": "2.1",
+  "konami_version": "RAM553MLB010WD00",
+  "backend_version": "2.1",
+  "game_libs_compatibility": "3.5.49",
+  "private": true,
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "metadata": {
+    "title": "Silver Lioness 4x",
+    "partner": "Konami",
+    "type": "slot",
+    "RTPs": [
+      96
+    ],
+    "description": "silver lioness 4x is a 1024 ways game with 4x5 slot game with free spins",
+    "belly": "/games/lbg_silverlioness4x/assets/img/sd/loading/belly.jpg",
+    "features": [
+      "Free Spins",
+      "4x5",
+      "Free Game Multiplier"
+    ]
+  }
+}
